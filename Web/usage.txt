@@ -1,0 +1,2 @@
+this tool only tests get requests.
+example target : http(s)://xxx.site.xxx/page?parameter=
