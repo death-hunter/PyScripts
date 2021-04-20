@@ -1,3 +1,7 @@
+#PyScripts
+
+For complete details please take a look at the [wiki](https://github.com/death-hunter/PyScripts/wiki).
+
 ## Installation
 
 - git clone https://github.com/death-hunter/PyScripts.git
